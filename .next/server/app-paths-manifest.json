@@ -1,0 +1,11 @@
+{
+  "/not-found": "app/not-found.js",
+  "/[subreddit]/page": "app/[subreddit]/page.js",
+  "/page": "app/page.js",
+  "/subreddits/page": "app/subreddits/page.js",
+  "/register/page": "app/register/page.js",
+  "/subreddits/[name]/page": "app/subreddits/[name]/page.js",
+  "/api/subreddits/[subreddit]/posts/route": "app/api/subreddits/[subreddit]/posts/route.js",
+  "/api/auth/[...nextauth]/route": "app/api/auth/[...nextauth]/route.js",
+  "/api/subreddits/route": "app/api/subreddits/route.js"
+}
